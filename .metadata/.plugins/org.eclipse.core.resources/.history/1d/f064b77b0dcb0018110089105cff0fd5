@@ -1,0 +1,11 @@
+package com.udemy.springdemo;
+
+public class RandomFortuneService implements FortuneService {
+	String[] fortunes = {"It's your lucky day","You can do it!",""};
+	@Override
+	public String getFortune() {
+		// generate a random fortune message
+		return ;
+	}
+
+}

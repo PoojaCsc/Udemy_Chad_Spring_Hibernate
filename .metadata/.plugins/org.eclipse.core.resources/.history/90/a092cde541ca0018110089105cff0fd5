@@ -1,0 +1,17 @@
+package com.udemy.springdemo;
+
+public class SetterDemoApp {
+
+	public static void main(String[] args) {
+		// Load the spring configuration file
+		
+		//retrieve bean from spring container
+		
+		//call methods on the bean
+		
+		
+		//close the context
+
+	}
+
+}
